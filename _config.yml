@@ -1,0 +1,10 @@
+title: LI Personal Hub Backups
+description: Персональное резервное копирование данных хаба в Google Drive
+lang: ru
+url: https://ivanlyamin.github.io
+baseurl: /li-personal-hub-backups
+theme: minima
+header_pages:
+  - privacy.md
+exclude:
+  - README.md
